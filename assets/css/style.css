@@ -1,0 +1,13 @@
+#ownBackground {
+    background-image: url(../../assets/images/dark_theme_background.jpg);
+    /* color: rgb(87, 180, 87); */
+
+}
+
+#selfImage {
+    
+}
+
+.well {
+    background-color: rgba(54, 54, 54, 0.767);
+}
