@@ -4,9 +4,14 @@
 
 }
 
+#nameTextSpace {
+    letter-spacing: 3px;
+}
+
 #selfImage {
     
 }
+
 
 .well {
     background-color: rgba(54, 54, 54, 0.767);
