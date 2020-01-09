@@ -17,6 +17,15 @@
     background-color: rgba(54, 54, 54, 0.767);
 }
 
+.col-centered {
+  float: none;
+  margin: 0
+}
+
+#pseudoClass {
+  margin-top: 100px;
+
+}
 
 /* took from a secondary-source to align text on top of an image in a 'card' */
 
