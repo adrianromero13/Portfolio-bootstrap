@@ -27,6 +27,10 @@
 
 }
 
+#customTextOnCard p {
+  font-size: 12px;
+}
+
 /* took from a secondary-source to align text on top of an image in a 'card' */
 
 /* .card-img-caption {
