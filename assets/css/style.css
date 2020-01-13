@@ -31,6 +31,18 @@
   font-size: 12px;
 }
 
+.nounderline:hover {
+  text-decoration: none;
+
+}
+
+.card-img-top {
+  width: 100%;
+  height: 30vw;
+  object-fit: cover;
+
+}
+
 /* took from a secondary-source to align text on top of an image in a 'card' */
 
 /* .card-img-caption {
